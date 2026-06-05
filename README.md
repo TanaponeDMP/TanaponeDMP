@@ -1,4 +1,4 @@
-### Hi There 👋, I'm Tom
+## Hi There 👋, I'm Tom
 
 ### Lead Developer
 
