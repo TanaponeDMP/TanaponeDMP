@@ -21,4 +21,16 @@ Developing and maintaining enterprise applications, internal platforms, and busi
 
 ---
 
-Building reliable systems that support day-to-day business operations.
+### 📈 GitHub Stats
+<p align="center">
+  <img height="140em" src="https://gh-readme-stats.vercel.app/api?username=TanaponeDMP&show_icons=true&theme=tokyonight" />
+  <img height="140em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=TanaponeDMP&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- Email: Tanapone.P@simummuangmarket.com
+- GitHub: [TanaponeDMP](https://github.com/TanaponeDMP)
+
+---
