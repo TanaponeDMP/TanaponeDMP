@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tanapone Phojaloen
 
-<!--
-**TanaponeDMP/TanaponeDMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Developer
 
-Here are some ideas to get you started:
+I design systems, lead development teams, and deliver enterprise solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specialties**
+
+* Software Architecture
+* Team Leadership
+* Enterprise Application Development
+
+**Tech Stack**
+Python · Django · ASP.NET · PostgreSQL · Docker · Windows Server
+
+---
+
+*"Build systems that scale. Build teams that succeed."*
