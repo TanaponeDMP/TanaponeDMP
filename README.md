@@ -1,18 +1,22 @@
+<div align="center">
+
 # Tanapone Phojaloen
 
-Lead Developer
+### 🧑‍💼 Lead Developer
 
-I design systems, lead development teams, and deliver enterprise solutions.
+Building reliable systems, empowering teams, and delivering business value through technology.
 
-**Specialties**
+</div>
+
+### 🏗️ Expertise
 
 * Software Architecture
 * Team Leadership
 * Enterprise Application Development
 
-**Tech Stack**
-Python · Django · ASP.NET · PostgreSQL · Docker · Windows Server
+### 🛠️ Technology
+
+`Python` · `Django` · `ASP.NET`
+`PostgreSQL` · `Docker` · `Windows Server`
 
 ---
-
-*"Build systems that scale. Build teams that succeed."*
