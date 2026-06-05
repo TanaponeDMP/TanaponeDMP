@@ -1,22 +1,24 @@
-<div align="center">
+### Hi There 👋, I'm Tom
 
-# Tanapone Phojaloen
+### Lead Developer
 
-### 🧑‍💼 Lead Developer
+Developing and maintaining enterprise applications, internal platforms, and business solutions.
 
-Building reliable systems, empowering teams, and delivering business value through technology.
+### Current Focus
 
-</div>
-
-### 🏗️ Expertise
-
-* Software Architecture
-* Team Leadership
 * Enterprise Application Development
+* Business Process Automation
+* Warehouse & Logistics Systems
+* Labor Management Platforms 
 
-### 🛠️ Technology
+### Technology Stack
 
 `Python` · `Django` · `ASP.NET`
-`PostgreSQL` · `Docker` · `Windows Server`
+
+`PostgreSQL` · `SQL Server`
+
+`Docker` · `Windows Server` · `IIS`
 
 ---
+
+Building reliable systems that support day-to-day business operations.
